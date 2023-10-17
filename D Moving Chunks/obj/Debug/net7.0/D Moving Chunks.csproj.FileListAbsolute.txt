@@ -1,0 +1,15 @@
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\D Moving Chunks\D Moving Chunks\bin\Debug\net7.0\D Moving Chunks.exe
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\D Moving Chunks\D Moving Chunks\bin\Debug\net7.0\D Moving Chunks.deps.json
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\D Moving Chunks\D Moving Chunks\bin\Debug\net7.0\D Moving Chunks.runtimeconfig.json
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\D Moving Chunks\D Moving Chunks\bin\Debug\net7.0\D Moving Chunks.dll
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\D Moving Chunks\D Moving Chunks\bin\Debug\net7.0\D Moving Chunks.pdb
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\D Moving Chunks\D Moving Chunks\obj\Debug\net7.0\D Moving Chunks.csproj.AssemblyReference.cache
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\D Moving Chunks\D Moving Chunks\obj\Debug\net7.0\D Moving Chunks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\D Moving Chunks\D Moving Chunks\obj\Debug\net7.0\D Moving Chunks.AssemblyInfoInputs.cache
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\D Moving Chunks\D Moving Chunks\obj\Debug\net7.0\D Moving Chunks.AssemblyInfo.cs
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\D Moving Chunks\D Moving Chunks\obj\Debug\net7.0\D Moving Chunks.csproj.CoreCompileInputs.cache
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\D Moving Chunks\D Moving Chunks\obj\Debug\net7.0\D Moving Chunks.dll
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\D Moving Chunks\D Moving Chunks\obj\Debug\net7.0\refint\D Moving Chunks.dll
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\D Moving Chunks\D Moving Chunks\obj\Debug\net7.0\D Moving Chunks.pdb
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\D Moving Chunks\D Moving Chunks\obj\Debug\net7.0\D Moving Chunks.genruntimeconfig.cache
+C:\Users\AlexG\OneDrive\Documents\Visual Studio 2022\Projects\D Moving Chunks\D Moving Chunks\obj\Debug\net7.0\ref\D Moving Chunks.dll
